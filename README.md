@@ -1,3 +1,57 @@
+<p align="center">
+  <a href="https://tetris.tonyebrown.com">
+    <img alt="Tonye Brown new logo" style="filter: invert(1)" src="http://3.bp.blogspot.com/-GjqjxCgQ3s4/WrIFh_DvnJI/AAAAAAAAoec/Vnf6_L_VoD8HGXGrY2P897KGmmhHlk40QCK4BGAYYCw/s1600/tbb%2Blogo%2B4%2Bwhite%2B2%2Bsmall.png" width="98" />
+  </a>
+</p>
+<h1 align="center">
+  Welcome to my Tetris App
+</h1>
+
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/42ded2b2-63d9-4963-9e26-4ae1b85bee6b/deploy-status)](https://app.netlify.com/sites/tonye/deploys)
+
+
+READ ME IN PROGRESS!
+This project is meant to be a replacement for my portfolio (http://www.tonyebrown.com). My current portfolio, while nice, is a few years old now and needs some love.
+
+_Even worse, it doesn't contain as much React and SASS as I'd like, and doesn't show off my newest bestest skills. I'd heard a lot about Gatsby ([official Website](https://www.gatsbyjs.org/)) and decided to give it a go._
+
+
+## 🚀 Inspiration and Technologies used 
+
+1.  **Inspiration**
+
+    Many many beautiful portfolios on Awwwards. Also found some amazing ideas via my favorite web roundup from the folks tympanus.net / @codrops. 
+    
+    I almost forgot, the amazing Gatsby docs will take you very far! 
+
+    ```shell
+    # "It’s not where you take things from - it’s where you take them to."
+    - Jean-Luc Godard
+    ```
+
+1.  **Technologies used**
+
+    I'm using most (if not all) of my favorite libraries - React, SASS, Gatsby, React Spring, GraphQL, Bootstrap, etc.
+
+    ```shell
+    # "Imitation is not just the sincerest form of flattery - it's the sincerest form of learning."
+    - George Bernard Shaw
+    ```
+
+1.  **Quick stop for me**
+
+    Local portfolio site running on `http://localhost:8000`!
+
+    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
+
+
+
+
+
+Thanks for visiting, and thanks for reading.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
