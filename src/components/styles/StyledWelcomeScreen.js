@@ -1,6 +1,8 @@
 import styled from "styled-components";
 
 export const StyledWelcomeScreen = styled.div `
+  display: flex;
+  flex-direction: column;
   position: absolute;
   top: 0;
   left: 0;
@@ -15,4 +17,11 @@ export const StyledWelcomeScreen = styled.div `
   font-family: Pixel,Arial,sans-serif;
   font-size: 1rem;
   outline: none;
+  text-align: center;
+
+  .game-modes, .credits {
+    display: flex;
+    flex-direction: column;
+    margin: 10px;
+  }
 `
